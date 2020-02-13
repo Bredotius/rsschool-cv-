@@ -13,3 +13,7 @@ I am a student at a technical university. I study programming languages, compute
 
 ## Experience
 As part of my university studies, I implemented several educational projects in various programming languages and using different technologies.
+
+## Education
+* **Codcademy:** *"Introduction to HTML"*
+* **Codcademy:** *"Learn CSS"*
